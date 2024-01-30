@@ -1,0 +1,4 @@
+./StudentApp/venv
+./StudentApp/student/__pycache__
+./StudentApp/student/migrations
+./StudentApp/StudentApp/__pycache__
